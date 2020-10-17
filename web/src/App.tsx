@@ -1,11 +1,11 @@
-import React from 'react';
+import React from "react";
 
-import './styles/global.css';
+import "./styles/global.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>Ola Mundo</h1>
+      <h1>Ola Mundo 2</h1>
     </div>
   );
 }
