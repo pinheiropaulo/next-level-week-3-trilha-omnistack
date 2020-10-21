@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 import logoImg from "../images/logo.svg";
 
-import "../styles/pages/landing.css";
+import "../styles/pages/landing.scss";
 
 function Landing() {
   return (

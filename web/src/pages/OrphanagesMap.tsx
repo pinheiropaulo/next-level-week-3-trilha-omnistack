@@ -7,7 +7,7 @@ import mapMarkerImg from "../images/map-marker.svg";
 
 import "leaflet/dist/leaflet.css";
 
-import "../styles/pages/orphanages-map.css";
+import "../styles/pages/orphanages-map.scss";
 
 function OrphanagesMap() {
   return (
